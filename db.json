@@ -1,28 +1,85 @@
 {
   "orders": [
     {
-      "size": "Medium",
-      "sizePrice": 40,
+      "size": "Small",
+      "sizePrice": 20,
       "packet": [
+        "Bath",
         "Haircut",
-        "Bath"
+        "Nail Trimming"
       ],
       "packetPrice": [
         20,
-        20
+        20,
+        15
       ],
       "packetDuration": [
         60,
-        60
+        60,
+        20
+      ],
+      "date": "2023-12-22T07:00:00.000Z",
+      "time": "8:00 AM",
+      "firstName": "Lisandra",
+      "lastName": "Fundora",
+      "email": "lisandrafj99@gmail.com",
+      "phone": "4255466197",
+      "comment": "",
+      "id": 1
+    },
+    {
+      "size": "Giant",
+      "sizePrice": 80,
+      "packet": [
+        "Additional Services"
+      ],
+      "packetPrice": [
+        40
+      ],
+      "packetDuration": [
+        30
       ],
       "date": "2023-12-22T07:00:00.000Z",
       "time": "10:00 AM",
+      "firstName": "Begonia",
+      "lastName": "Lopez",
+      "email": "begolopez@gmail.com",
+      "phone": "8014256198",
+      "comment": "My dog is not easy",
+      "id": 2
+    },
+    {
+      "size": "Medium",
+      "sizePrice": 40,
+      "packet": [
+        "Nail Trimming",
+        "Haircut",
+        "Bath",
+        "Additional Services",
+        "Nail Trimming"
+      ],
+      "packetPrice": [
+        15,
+        20,
+        20,
+        40,
+        15
+      ],
+      "packetDuration": [
+        20,
+        60,
+        60,
+        30,
+        20
+      ],
+      "date": "2023-12-24T07:00:00.000Z",
+      "time": "2:00 PM",
       "firstName": "Lisandra",
       "lastName": "Jiménez",
       "email": "lisandrafj99@gmail.com",
       "phone": "4255466197",
       "comment": "",
-      "id": 1
+      "id": 3
     }
   ]
 }
