@@ -74,12 +74,42 @@
       ],
       "date": "2023-12-24T07:00:00.000Z",
       "time": "2:00 PM",
-      "firstName": "Lisandra",
-      "lastName": "Jiménez",
-      "email": "lisandrafj99@gmail.com",
-      "phone": "4255466197",
+      "firstName": "Andrew",
+      "lastName": "Kimberly",
+      "email": "andrewkim95@gmail.com",
+      "phone": "3255466197",
       "comment": "",
       "id": 3
+    },
+    {
+      "size": "Medium",
+      "sizePrice": 40,
+      "packet": [
+        "Nail Trimming",
+        "Haircut",
+        "Bath",
+        "Additional Services"
+      ],
+      "packetPrice": [
+        15,
+        20,
+        20,
+        40
+      ],
+      "packetDuration": [
+        20,
+        60,
+        60,
+        30
+      ],
+      "date": "2023-12-22T07:00:00.000Z",
+      "time": "11:00 AM",
+      "firstName": "Alejandro",
+      "lastName": "ARUCA",
+      "email": "alejandroaruca@gmail.com",
+      "phone": "8138940123‬",
+      "comment": "trying thissss!!!!",
+      "id": 4
     }
   ]
 }
